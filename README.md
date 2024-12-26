@@ -19,4 +19,3 @@ How to run?
 Only frontend: nx serve frontend
 Only backend: nx serve backend
 Frontend/Backend at the same time: nx run-many --target=serve --projects=frontend,backend
-
